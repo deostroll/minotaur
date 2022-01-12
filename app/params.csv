@@ -1,0 +1,5 @@
+processor,platform
+cpu_cores,psutil
+networks,psutil
+storage,psutil
+memory,psutil

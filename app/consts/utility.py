@@ -1,0 +1,2 @@
+PSUTIL = 'psutil'
+PLATFORM = 'platform'
